@@ -17,7 +17,7 @@ The core features include:
 
 The application is hosted and publicly available at:
 
-**[https://mihakurochkin.github.io/driftless-todo/]**
+**https://mihakurochkin.github.io/driftless-todo/**
 
 ## 🛠️ Technologies Used
 
@@ -40,7 +40,7 @@ You need **Node.js** (which includes npm) installed on your machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Mihakurochkin/driftless-todo]
+    git clone https://github.com/Mihakurochkin/driftless-todo
     cd Driftless-Todo
     ```
 
